@@ -1,0 +1,1 @@
+instance_change(o_flying_axe,true);

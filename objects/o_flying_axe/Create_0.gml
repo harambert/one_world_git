@@ -1,0 +1,9 @@
+spin = 0;
+state = state_axe_follow;
+flash = 0;
+hitmax = 60;
+hitdir = 0;
+hit = hitmax;
+hitspdmax = 18;
+hitspd = hitspdmax;
+hp = 0
